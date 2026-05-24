@@ -1,0 +1,8 @@
+{
+    "name": "authmanager-service",
+    "version": "1.0.27",
+    "private": false,
+    "environment": "production",
+    "build_id": 595,
+    "allow_public_access": true
+}
